@@ -1,0 +1,19 @@
+body{
+    		margin-left:10px;
+	        }
+	#title{
+    		width:auto;
+    		background-color: crimson;
+    		color:rgb(205, 207, 209);
+    		font-family:sans-serif;
+    		margin-left :10px;
+	         }
+	.line{
+    		margin-left:20px;
+   		 margin-top: 5px;
+    		border-top: 0;
+    		border-left:0;
+    		border-right:0;
+    		border-bottom: 2px solid black;
+    
+   	       }
